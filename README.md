@@ -4,18 +4,14 @@
 Email Me 👉 ✉️ **faizan.devtech@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** web development
-- 🌱 **I’m currently learning:** front end technologies
+- 🌱 **I’m currently learning:** Advanced web technologies
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am front end engineer 😊😊
-I am a Software Engineering student and Frontend Developer skilled in HTML, CSS, SCSS, JavaScript, Tailwind CSS, React.js, and Next.js.
-
-I focus on building responsive, user-friendly, and modern web applications with clean and efficient code. I enjoy turning ideas into interactive digital experiences and continuously improving my skills in frontend development.
-
-Currently, I am seeking opportunities to apply my knowledge, contribute to real-world projects, and grow as a professional developer.
+## 🔗 I am full-stack web developer 😊😊
+ A  full stack web developer || Software Engineer -🔭 Working on: Advanced web technologies 🌱 Learning: Advanced React, Backend optimization 👯 Open to: Collaboration on web & startup projects Email Me 👉 ✉️faizan.devtech@gmail.com .com For Collaboration/Project or Anything Else. 😊😊
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/faizan-devtech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizan.dev-tech@gmail.com) 
